@@ -36,7 +36,7 @@ html, body {
 
 .btn::after {
   content: '';
-  background-image: url("https://github.com/InacioNakiti/kinghintsa/assets/arrow-button.svg");
+  background-image: url("https://github.com/InacioNakiti/kinghintsa/blob/main/assets/arrow-button.svg");
   background-repeat: no-repeat;
   background-size: 15px;
   width: 30px;
@@ -576,7 +576,7 @@ header .right-col .img-book {
   -webkit-box-align: end;
       -ms-flex-align: end;
           align-items: flex-end;
-  background-image: url("https://github.com/InacioNakiti/kinghintsa/assets/portrait-man-nurse-wearing-uniform-stethoscope.jpg");
+  background-image: url("https://github.com/InacioNakiti/kinghintsa/blob/main/assets/portrait-man-nurse-wearing-uniform-stethoscope.jpg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -601,7 +601,7 @@ header .right-col .img-book {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url("https://github.com/InacioNakiti/kinghintsa/Rectangle 21.jpg");
+  background-image: url("https://github.com/InacioNakiti/kinghintsa/blob/main/assets/rectangle-21.jpg");
   background-position: center;
   background-repeat: no-repeat;
   height: 500px;
@@ -640,7 +640,7 @@ header .right-col .img-book {
   text-align: center;
   font-size: 50px;
   list-style: none;
-  background-image: url("https://github.com/InacioNakiti/kinghintsa/assets/circle.png");
+  background-image: url("https://github.com/InacioNakiti/kinghintsa/blob/main/assets/circle.png");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
